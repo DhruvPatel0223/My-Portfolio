@@ -1,0 +1,27 @@
+h1{
+    color:blue
+}
+
+.header{
+    background-color: cadetblue;
+    display: flex;
+    justify-content: center;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    margin: 20px;
+    padding: 20px;
+}
+
+p,h2,a{
+    text-align: center;
+    font-size: large;
+}
+
+.footer{
+    display: flex;
+    justify-content: flex-end;
+}
